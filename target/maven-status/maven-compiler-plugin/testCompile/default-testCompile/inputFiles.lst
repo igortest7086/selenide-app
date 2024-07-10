@@ -1,0 +1,12 @@
+D:\code\selenide-app\src\test\java\ui_suite\tests\UserAccessTests.java
+D:\code\selenide-app\src\test\java\ui_suite\services\TestDataReader.java
+D:\code\selenide-app\src\test\java\ui_suite\models\User.java
+D:\code\selenide-app\src\test\java\ui_suite\tests\MainPageTests.java
+D:\code\selenide-app\src\test\java\ui_suite\pages\CreateNewRepositoryPage.java
+D:\code\selenide-app\src\test\java\ui_suite\services\UserCreator.java
+D:\code\selenide-app\src\test\java\ui_suite\pages\AbstractPage.java
+D:\code\selenide-app\src\test\java\ui_suite\pages\MainPage.java
+D:\code\selenide-app\src\test\java\ui_suite\enums\HeaderMenuType.java
+D:\code\selenide-app\src\test\java\ui_suite\enums\SignInUpType.java
+D:\code\selenide-app\src\test\java\ui_suite\pages\LoginPage.java
+D:\code\selenide-app\src\test\java\ui_suite\tests\CommonConditions.java
