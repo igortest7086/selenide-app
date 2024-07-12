@@ -5,7 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a63a3e5d-b7fe-4491-b74d-5fe31f6e3003" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/selenide-app.ipr/.idea/selenide-app.ipr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1c868f31-304c-4401-978c-f72a63ce327f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/273e94c4-f545-47c8-a0da-1ccb9870467e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/37a15e59-2aea-47d7-b53b-e11bf527eead-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/41510157-070b-4cc4-a55f-369a8be201f6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4359e54f-893e-45b3-9a7c-d223c8676523-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6a929e87-0681-4c7b-9b7f-bd4ed6f54dcb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/745397e0-95b1-48b6-9141-572e086408fe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f017e0d-f70c-4de3-8ee1-1e4badb723ee-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/87894cb6-e15d-43f4-aabc-3b0a253c0db8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8dde754c-9851-4734-b2ab-3ba238f54b32-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/951db3ce-06aa-46ad-9bcf-c1da7ef0261a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9b963fe2-e350-4c18-9170-55b1efb6dffb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a3841051-3675-4273-9db3-e9dfea2bea2a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/abff0189-6b0d-442b-9c36-b864cfed722e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bda9ff7a-df82-4c43-86ab-c66343f29619-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d3e815a5-797a-4d76-922b-bd920bf01e7b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/de4160d8-3c0e-4d17-ba35-f918cbaa53b0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f8a9734f-1abe-4391-806c-72e29d1e48c2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1720527729822.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1720528601387.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenide-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenide-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenide-app.ipr" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/selenide-app.iws" beforeDir="false" afterPath="$PROJECT_DIR$/selenide-app.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui_suite/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui_suite/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui_suite/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui_suite/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui_suite/tests/MainPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui_suite/tests/MainPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui_suite/tests/UserAccessTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui_suite/tests/UserAccessTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/selenide-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/logs/selenide-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-07-09T14-54-36_656.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng-all.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng-smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/enums/HeaderMenuType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/enums/HeaderMenuType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/enums/SignInUpType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/enums/SignInUpType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/AbstractPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/AbstractPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/CreateNewRepositoryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/CreateNewRepositoryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/services/UserCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/services/UserCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/CommonConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/CommonConditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/MainPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/MainPageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/UserAccessTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ui_suite/tests/UserAccessTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +234,14 @@
     <option name="SORT_ALPHABETICALLY" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.m2/settings.xml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ui_suite/pages/LoginPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ui_suite/pages/MainPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ui_suite/tests/CommonConditions.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ui_suite/tests/MainPageTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/ui_suite/tests/UserAccessTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/resources/log4j2.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="InspectionManager">
     <option name="AUTOSCROLL_TO_SOURCE" value="false" />
@@ -258,7 +312,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/code/selenide-app",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/code/Selenide/allure-example-master",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -270,7 +325,7 @@
       <recent name="D:\code\selenide-app" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainPageTests.optionsArePresentTest">
+  <component name="RunManager" selected="TestNG.UserAccessTests.oneCanLoginGithubTest">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -283,21 +338,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GoogleTest.userCanSearchKeywordInGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-app" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoogleTest" />
-      <option name="METHOD_NAME" value="userCanSearchKeywordInGoogle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -323,28 +363,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTests.userCanSearchKeywordInGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui_suite.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui_suite.tests" />
-      <option name="MAIN_CLASS_NAME" value="ui_suite.tests.MainPageTests" />
-      <option name="METHOD_NAME" value="userCanSearchKeywordInGoogle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserAccessTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserAccessTests.oneCanLoginGithubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenide-app" />
       <extension name="coverage">
         <pattern>
@@ -354,27 +373,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ui_suite.tests" />
       <option name="MAIN_CLASS_NAME" value="ui_suite.tests.UserAccessTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserAccessTests.oneCanLoginGithub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="selenide-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui_suite.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ui_suite.tests" />
-      <option name="MAIN_CLASS_NAME" value="ui_suite.tests.UserAccessTests" />
-      <option name="METHOD_NAME" value="oneCanLoginGithub" />
+      <option name="METHOD_NAME" value="oneCanLoginGithubTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,13 +395,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenide-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_suite.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui_suite.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui_suite.tests.MainPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTests.optionsArePresentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenide-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_suite.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui_suite.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui_suite.tests.MainPageTests" />
+      <option name="METHOD_NAME" value="optionsArePresentTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAccessTests.oneCanLoginGithubTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenide-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_suite.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui_suite.tests" />
+      <option name="MAIN_CLASS_NAME" value="ui_suite.tests.UserAccessTests" />
+      <option name="METHOD_NAME" value="oneCanLoginGithubTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.UserAccessTests.oneCanLoginGithubTest" />
+        <item itemvalue="TestNG.MainPageTests.optionsArePresentTest" />
+        <item itemvalue="TestNG.MainPageTests" />
         <item itemvalue="JUnit.MainPageTests.optionsArePresentTest" />
-        <item itemvalue="JUnit.UserAccessTests.oneCanLoginGithub" />
-        <item itemvalue="JUnit.UserAccessTests" />
-        <item itemvalue="JUnit.MainPageTests.userCanSearchKeywordInGoogle" />
-        <item itemvalue="JUnit.GoogleTest.userCanSearchKeywordInGoogle" />
+        <item itemvalue="JUnit.UserAccessTests.oneCanLoginGithubTest" />
       </list>
     </recent_temporary>
   </component>

@@ -1,12 +1,11 @@
 ui_suite\enums\SignInUpType.class
 ui_suite\tests\MainPageTests.class
+ui_suite\services\UserCreator.class
 ui_suite\tests\CommonConditions.class
 ui_suite\tests\UserAccessTests.class
 ui_suite\pages\LoginPage.class
-ui_suite\enums\HeaderMenuType.class
-ui_suite\pages\AbstractPage.class
-ui_suite\services\UserCreator.class
-ui_suite\services\TestDataReader.class
 ui_suite\models\User.class
 ui_suite\pages\CreateNewRepositoryPage.class
+ui_suite\enums\HeaderMenuType.class
 ui_suite\pages\MainPage.class
+ui_suite\pages\AbstractPage.class

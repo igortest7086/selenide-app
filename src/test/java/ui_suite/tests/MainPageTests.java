@@ -1,6 +1,6 @@
 package ui_suite.tests;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 import ui_suite.enums.HeaderMenuType;
 import ui_suite.pages.MainPage;
 
